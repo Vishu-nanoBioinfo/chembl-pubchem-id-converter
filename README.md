@@ -47,19 +47,25 @@ If your molecules.csv looks like this:
 CHEMBL_Code
 
 CHEMBL2414773
+
 CHEMBL2063273
 
 The output CSV (chembl_to_pubchem_cids.csv) will be:
 CHEMBL_Code	PubChem_CID
 
 CHEMBL2414773	123456
+
 CHEMBL2063273	654321
+
+
 
 Error Handling
 The script handles errors gracefully, printing an error message if a CHEMBL code cannot be converted.
 
+
 License
 This project is licensed under the MIT License.
+
 
 Acknowledgments
 This script uses the PubChemPy library to interact with the PubChem database.
