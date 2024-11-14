@@ -35,7 +35,7 @@ Usage
         The input file (molecules.csv) should contain a column with CHEMBL codes.
         Update the chembl_column_name in the script if the CHEMBL code column in your file has a different name.
 
-    Run the Script: python convert_chembl_to_pubchem.py
+    Run the Script: python convert_chembl.py
     
 Output:
 
