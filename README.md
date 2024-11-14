@@ -45,11 +45,13 @@ Output:
 Example
 If your molecules.csv looks like this:
 CHEMBL_Code
+
 CHEMBL2414773
 CHEMBL2063273
 
 The output CSV (chembl_to_pubchem_cids.csv) will be:
 CHEMBL_Code	PubChem_CID
+
 CHEMBL2414773	123456
 CHEMBL2063273	654321
 
