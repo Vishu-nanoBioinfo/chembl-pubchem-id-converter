@@ -60,12 +60,15 @@ CHEMBL2063273	654321
 
 
 Error Handling
+
 The script handles errors gracefully, printing an error message if a CHEMBL code cannot be converted.
 
 
 License
+
 This project is licensed under the MIT License.
 
 
 Acknowledgments
+
 This script uses the PubChemPy library to interact with the PubChem database.
